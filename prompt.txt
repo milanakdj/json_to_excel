@@ -47,25 +47,20 @@ do the same for the following items:
 
 
 "
-Lesson Plan for PBL 6: Art & Solidarity; w1 dec, project c2
-Shoot video for Doc Fest ; w1 dec, project c2
-Visit Shram school for Ashmita from PBL6; 
-Preparing for upcoming EL session(7th dec)
-Field Visit to Nepal Art Council Gallery
-Submission of External Communication Report (PBL6 NAC)
-Arranging the Art's materials
-Discuss with Rohit ji for EL Health workshop
-Submission of Proposal for EL Sport visit
-Taking for sport Visit to Dunkmandu for EL
-External Communication of EL Sport's
-Discuss about Siddhartha's Eye Surgery with Rohit Ji (PBL6)
-to purchase winter hygenic kits and clothes for PBL and El
-Submission of Proposal for Hygenic kits and Clothes (PBL&EL)
-Health workshop & Distribution of Hygenic kits and winter clothes to PBL
-Report submission of Health workshop and package distribution to PBL
-Health workshop & Distribution of Hygenic kits and winter clothes to EL
-EC Report submission of Health workshop and package distribution to EL
-Visit Kashmira's School for payment
-Kashmira will collect the winter package non 28th dec
-Internal Report Submission
+Internal report of Jan; Children Program; w1 feb
+English assessement of PBL 6&7; C2; w1 w2 feb
+proposal for starting PBL6 4th quarter on the theme "Kindness & compassion"; C2 > PBL6; w1 w2 feb
+proposal for starting PBL7 4th quarter on the theme "Women's Right"; C2 > PBL7; w1 w2 feb
+EC of PBL6 &7 3rd quarter final events; C3; w2 feb
+Revise curriculum of PBL 6 & 7; C2; w1 to w4 feb
+Prepare the question for the students: Art & Solidarity; c2 > PBL6; w2 feb
+Proposal of EL Mid event; C3; w1 feb
+EL 2nd quarter Mid event; C3; w1 feb
+EC of EL 2nd quarter mid event; C3; w2 feb
+Proposal for Utpala field visit; C3; w1 feb
 "
+
+give this in json form, and fill the self-evidence section accordingly, which are sentences and not list items
+
+
+

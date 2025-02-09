@@ -2,7 +2,10 @@ import json
 
 import pandas as pd
 
-with open("list2.json", "r") as file:
+FILE_NAME = "list3.json"
+OUTPUT_NAME = FILE_NAME.split(".")[0]
+
+with open(FILE_NAME, "r") as file:
     data = json.load(file)
 
 # print(data)
@@ -14,5 +17,5 @@ df = pd.DataFrame(data)
 print(df)
 
 
-df.to_excel('output2.xlsx', index=False)
+df.to_excel(f'{OUTPUT_NAME}.xlsx', index=False)
 
