@@ -2,7 +2,7 @@ import json
 
 import pandas as pd
 
-FILE_NAME = "list3.json"
+FILE_NAME = "nov.json"
 OUTPUT_NAME = FILE_NAME.split(".")[0]
 
 

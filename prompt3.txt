@@ -1,0 +1,153 @@
+Activity
+Budget description
+C1A1 - Children Support   : CP Coordinator Salary - Poush
+C1A1 - Children Support : CP Coordinator Salary - Magh
+C1A1 - Children Support : CP Coordinator Salary - Falgun
+C1A1 - Children Support : CP Coordinator Salary - Chaitra
+C1A1 - Children Support : CP Coordinator Salary - Baishakh
+C1A1 - Children Support : CP Coordinator Salary - Jestha
+C1A1 - Children Support : CP Jr Officer Salary - Jestha
+C1A1 - Children Support : CP Coordinator Salary - Ashad
+C1A1 - Children Support : CP Jr Officer Salary - Ashad
+C1A1 - Children Support : CP Coordinator Salary - Shrawan
+C1A1 - Children Support : CP Jr Officer Salary - Shrawan
+C1A1 - Children Support : CP Coordinator Salary - Bhadra
+C1A1 - Children Support : CP Jr Officer Salary - Bhadra
+C1A1 - Children Support : CP Coordinator Salary - Ashwin
+C1A1 - Children Support : CP Jr Officer Salary - Ashwin
+C1A1 - Children Support : CP Coordinator Salary - Kartik
+C1A1 - Children Support : CP Jr Officer Salary - Kartik
+C1A1 - Children Support : CP Coordinator Salary - Mangsir
+C1A1 - Children Support : CP Jr Officer Salary - Mangsir
+C1A1 - Children Support : CP Coordinator Salary - Poush
+C1A1 - Children Support : CP Jr Officer Salary - Poush
+C1A1 - Children Support : CP Coordinator Salary - Magh
+C1A1 - Children Support        : CP Jr Officer Salary - Magh
+C1A1 - Children Support : CP Coordinator Salary - Falgun
+C1A1 - Children Support : CP Jr Officer Salary - Falgun
+C1A1 - Children Support : CP Coordinator Salary - Chaitra
+C1A1 - Children Support : CP Jr Officer Salary - Chaitra
+C1A2 - School & Family Visits : 3/3 School visit Travel Expenses
+C1A2 - School & Family Visits : 1/3 School visit Travel Expenses
+C1A2 - School & Family Visits : 2/3 School visit Travel Expenses
+C1A2 - School & Family Visits : 3/3 School visit Travel Expenses
+C1A3 - Family Meetings & Counselling : 3/3 PBL Family Meeting- Materials & Refreshments
+C1A3 - Family Meetings & Counselling : 3/3 EL Family Meeting- Materials & Refreshments
+C1A3 - Family Meetings & Counselling : 1/4 New PBL Orientation Meeting- Materials & Refreshments
+C1A3 - Family Meetings & Counselling : 1/3 EL Family Meeting- Materials & Refreshments
+C1A3 - Family Meetings & Counselling : 2/4 PBL Family Meeting- Health Workshop & Refreshments
+C1A3 - Family Meetings & Counselling : 2/3 EL Family Meeting- Materials & Refreshments
+C1A3 - Family Meetings & Counselling : 3/4 PBL Family Meeting- Health Workshop & Refreshments
+C1A3 - Family Meetings & Counselling : 4/4 PBL Family Meeting- Materials & Refreshments
+C1A3 - Family Meetings & Counselling : 3/3 EL Family Meeting- Materials & Refreshments
+C1A3 - Family Meetings & Counselling : 1/4 New PBL Orientation Meeting- Materials & Refreshments
+C1A4 - Children Counselling Implementation & Documentation : Children Program Students ID, Printing & Folders
+C1A5 - CH's Past Beneficiaries School Fees & Support : 3/3 Installment fees for Kashmira Bhandari - Class 7
+C1A5 - CH's Past Beneficiaries School Fees & Support : 1/3 Installment fees for Kashmira Bhandari - Class 8
+C1A5 - CH's Past Beneficiaries School Fees & Support : Books & Uniform- Kashmira Bhandari
+C1A5 - CH's Past Beneficiaries School Fees & Support : 2/3 Installment fees for Kashmira Bhandari - Class 8
+C1A5 - CH's Past Beneficiaries School Fees & Support : 3/3 Installment fees for Kashmira Bhandari - Class 8
+C2A1 - PBL Educational Support : Books & Stationery
+C2A1 - PBL Educational Support : School Uniforms, Shoes & Bags
+C2A1 - PBL Educational Support : IT Class Materials, Repairs and Maintenance
+C2A2 - PBL Implementation : 4/4 Class materials - PBL7 Women's Rights/ PBL6 English Prep
+C2A2 - PBL Implementation : 1/4 Class materials - PBL6 Environment/ PBL7 English Prep
+C2A2 - PBL Implementation : Books for the library
+C2A2 - PBL Implementation : 2/4 Class materials - PBL7 Child Rights/PBL6 English Prep
+C2A2 - PBL Implementation : 3/4 Class materials - PBL6 Solidarity/ PBL7 English Prep
+C2A2 - PBL Implementation : Instructor Fee - Class Collaboration Solidarity
+C2A2 - PBL Implementation : 4/4 Class materials - PBL7 Women's Rights/ PBL6 English Prep
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 3rd Quarter Final Event - PBL7 English 7B
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 3rd Quarter Final Event - Art & Solidarity
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : PBL7 Field Visit - Theatre/Exhibition
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : PBL7 - Guest Speaker (Women's Rights)
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : PBL6 Field Visit - Cultural Heritage/Art/Exhibition (FV5)
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 4/4 Final Event Women's Rights - PBL7
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 4/4 Final Event English Prep - PBL6
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 1/1 Guest Speaker Environment and Sustainability - PBL6
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 1/4 Field Visit Environment and Sustainability - PBL6
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : Field Visit - Sports (FV1/4)>PBL7 & (FV2/4)>PBL6
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 1/4 Final Event English Prep - PBL7
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 1/4 Final Event - Environment & Sustainability - PBL6
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 1/2 Guest Speaker Child Rights - PBL7
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 2/4 Field Visit Child Rights - PBL7 : C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 2/4 Final Event Child Rights - PBL7
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 2/4 Final Event English Prep - PBL6
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 3/4 Field Visit Solidarity - PBL6
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 3/4 Field Visit Hike to Nagi Gumba/Theater/Exhibition - PBL7
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 3/4 Final Event Solidarity - PBL6
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 3/4 Final Event English Prep - PBL7
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 2/2 Guest Speaker Women's Rights - PBL7
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 4/4 Field Visit Hike to Jagadol/Theater/Exhibition - PBL6
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 4/4 Field Visit Women Rights - PBL7
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 4/4 Final Event English Prep- PBL6
+C2A3 - PBL Field Visits, Knowledge Exchange & Community Engagement : 4/4 Final Event Women's Rights - PBL7
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : 1/2 Health Workshop - Summer Hygiene Packs & Shoes
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : Summer Clothes Distribution
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : Eye Checkup
+C2A4 - PBL Health & Hygiene Support : Dental Checkup
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : 2/2 Health Workshop - Winter Hygiene Packs
+C2A4 - PBL Health & Hygiene Support : Winter Clothes distribution
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C2A4 - PBL Health & Hygiene Support : PBL Snack
+C3A1 - EL Educational Support : 2/2 Baba School Fees for Anuj - class 10
+C3A1 - EL Educational Support : 3/3 Akashganga School Fees for Abina - Class 9
+C3A1 - EL Educational Support : Books & Stationery
+C3A1 - EL Educational Support : School Uniforms, Shoes & Bags
+C3A1 - EL Educational Support : 1/3 Akashganga School Fees for Abina - class 10
+C3A1 - EL Educational Support : 2/3 Akashganga School Fees for Abina - class 10
+C3A1 - EL Educational Support : 3/3 Akashganga School Fees for Abina - class 10
+C3A2 - EL Implementation : 2/2 Class materials - ELB Women's Rights
+C3A2 - EL Implementation : 1/2 Class materials - ELC Child Rights
+C3A2 - EL Implementation : Books for the library
+C3A2 - EL Implementation : EL Extra Exposure (Swimming Course)
+C3A2 - EL Implementation : 2/2 Class materials - ELD Solidarity
+C3A2 - EL Implementation : 2/2 Class materials - ELD Solidarity (Carryover for Jan-March)
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 3rd Quarter Final Event - ELC
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 4/4 Field Visit ELB - Theatre/Exhibition
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 3/3 Guest Speaker Session ELB - Women's Rights
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 2/2 Final Event - ELB Women's Right
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 1/4 Field Visit ELC- Exhibition/ Theatre
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 1/2 Guest Speaker Session ELC - Child Rights and Responsibilities
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 1/2 Mid-Event ELC- Child Rights and Responsibilites
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 2/4 Field Visit ELC - Sports Day Out
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 2/2 Guest Speaker Session ELC- Child Rights and Responsibilities
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 1/2 Final Event - ELC Child Rights and Responsibilities
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 3/4 Field Visit ELD - Sports Day Out- Solidarity
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 2/2 Mid Event- Solidarity
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 4/4 Field Visit ELD - Hike/ Picnic- Solidarity
+C3A3 - EL Field Visits, Knowledge Exchange & Community Engagement : 2/2 Final Event - Solidarity
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : 1/2 Health Workshop - Summer Hygiene Packs
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : Summer Clothes Distribution
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : Dental Treatments & Followups
+C3A4 - EL Health & Hygiene Support : Eye Treatments & Followups
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : 2/2 Health Workshop - Winter Hygiene Packs
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : Winter Clothes Distribution
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : EL Snack
+C3A4 - EL Health & Hygiene Support : EL Snack
+
